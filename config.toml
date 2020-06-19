@@ -1,0 +1,6 @@
+baseURL = "http://solal.gendr.in/"
+languageCode = "fr-fr"
+title = "Solal Gendrin"
+theme = "blank"
+[taxonomies]
+	tag = "tags"

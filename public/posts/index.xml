@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Solal Gendrin</title>
+    <link>http://solal.gendr.in/posts/</link>
+    <description>Recent content in Posts on Solal Gendrin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 14 Jun 2020 17:45:43 +0200</lastBuildDate>
+    
+	<atom:link href="http://solal.gendr.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://solal.gendr.in/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jun 2020 17:45:43 +0200</pubDate>
+      
+      <guid>http://solal.gendr.in/posts/my-first-post/</guid>
+      <description>Salut je suis solal</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://solal.gendr.in/posts/my-second-post/</link>
+      <pubDate>Sun, 14 Jun 2020 17:45:43 +0200</pubDate>
+      
+      <guid>http://solal.gendr.in/posts/my-second-post/</guid>
+      <description>##hello alexis</description>
+    </item>
+    
+  </channel>
+</rss>
